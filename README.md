@@ -1,5 +1,8 @@
 # Face Detection
 
+
+My Python face detection project allows you to detect and count faces in both photos and live video streams.
+
 # Installation
 * `pip install opencv-python facenet-pytorch`
 
